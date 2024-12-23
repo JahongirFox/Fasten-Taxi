@@ -12,6 +12,9 @@ function Fasten1() {
         <div className="Fasten1-IMG">
             <img src={FastenIMG1} alt="" />
         </div>
+        <div className="Card">
+
+        </div>
     </div>
   );
 }

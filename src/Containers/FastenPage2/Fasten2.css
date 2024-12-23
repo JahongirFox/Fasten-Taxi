@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Fasten2{
+    background-color: #fff;
+    width: 100%;
+    height: 87vh;
+    border-radius: 20px;
+    padding-bottom: 5%;
+}
+.TEXT2{
+    font-weight: 700;
+    color: #1D1D1F;
+    font-family: CoFo Weather Wide, Helvetica, Arial, sans-serif;
+    letter-spacing: normal;
+    line-height: 95%;
+    text-align: center;
+    font-size: 90px;
+    padding-top: 2%;
+}
+.TEXT2-P{
+    color: black;
+    font-size: 40px;
+    font-family: CoFo Weather Wide, Helvetica, Arial, sans-serif;
+    letter-spacing: normal;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 2%;
+}
+.CARD-fasten{
+    background: #00E2C7;
+    width: 90%;
+    height:40vh;
+    border-radius: 50px;
+    text-align: center;
+    margin-left: 5%;
+    margin-top: 80px;
+}
+.LOGO{
+    padding-top: 50px;
+}
+.LOGO1-TEXT{
+    color: black;
+    font-size: 70px;
+    padding-top: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+.LOGO2-TEXT{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    color: black;
+    font-size: 30px;
+    padding-top: 20px;
+}
