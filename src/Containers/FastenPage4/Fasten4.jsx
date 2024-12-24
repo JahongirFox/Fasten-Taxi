@@ -7,23 +7,23 @@ function Fasten4() {
   return (
       <div className="Fasten4">
           <div>
-              <h1 className="Fasten4-h1">An <span>easy-to-use</span> app </h1>
+              <h1 className="Fasten4-h1">Всегда <span>удобное</span> приложение</h1>
           </div>
           <div className="Cards4">
                 <div className="card4">
                     <img className="radius" width={'500px'} src={orig1} alt="" />
-                    <h1 className="card4-h1">Оплата <br /> наличными  или<br /> картой</h1>
-                    <p className="card4-p" >Быстро и легко</p>
+                    <h1 className="card4-h1">Оплата картой <br />или наличными</h1>
+                    <p className="card4-p" >Просто и быстро</p>
                 </div>
                 <div className="card4">
                     <img className="radius" width={'500px'} src={orig2} alt="" />
-                    <h1 className="card4-h1">Узнайте <br /> стоимость <br /> поездки заранее</h1>
-                    <p className="card4-p" >Никаких сюрпризов.</p>
+                    <h1 className="card4-h1">Цена известна <br />заранее</h1>
+                    <p className="card4-p" >Всё честно и предсказуемо</p>
                 </div>
                 <div className="card4">
                     <img className="radius" width={'500px'} src={orig3} alt="" />
-                    <h1 className="card4-h1">Отслеживайте <br /> своего водителя <br /> в режиме <br /> реального <br /> времени</h1>
-                    <p className="card4-p" >Навигация в приложении</p>
+                    <h1 className="card4-h1">Видно, где едет <br />водитель</h1>
+                    <p className="card4-p" >На карте в приложении</p>
                 </div>
           </div>
       </div>

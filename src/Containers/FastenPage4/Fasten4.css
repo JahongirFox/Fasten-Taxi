@@ -6,7 +6,7 @@
 .Fasten4{
     background-color: #fff;
     width: 100%;
-    height: 130vh;
+    height: 120vh;
 }
 .Fasten4-h1{
     color:black;
@@ -14,7 +14,7 @@
     font-size: 80px;
     font-weight: 600;
     text-align: center;
-    padding-top: 8%;
+    padding-top: 3%;
 }
 .Fasten4-h1>span{
     color:#1400FF;
@@ -28,7 +28,7 @@
     height: 80vh;
     /* border: 1px solid #EFDECD; */
     border-radius: 40px;
-    box-shadow: 0px 0px 100px #cfb294;
+    box-shadow: 0px 0px 30px #1400FF;
     text-align: center;
 
 }
